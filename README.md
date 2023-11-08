@@ -1,10 +1,6 @@
-title: Example product landing page
-product_video: 'https://www.youtube.com/watch?v=NW1t0JN8068'
-product_video_transcript: /content/video-transcripts/TRANSCRIPT-TITLE
 
 
 
-<div id="top"></div>
-<p align="center">
-      <product_video src="https://www.youtube.com/watch?v=NW1t0JN8068" width="100%" height="100%">
-<p align="center">
+
+https://github.com/Igrmendes/ooo/assets/113563935/cb2b0370-8f50-4da9-94fb-9a1fb2e79841
+
